@@ -72,7 +72,7 @@ function App() {
     <Router>
     <Navbar  mode={mode}  toggleMode={toggleMode} pageChange={pageChange}/>
     <Routes>
-      <Route path="/"  element={<Textarea mode={mode}/>}/>
+      <Route path="/Textutils-React"  element={<Textarea mode={mode}/>}/>
       <Route path="/about"  element={<About/>}/>
       </Routes>
     </Router>

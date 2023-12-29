@@ -67,6 +67,9 @@ background-color: rgb(198 190 190);
 #whitebtn{
   background-color: white;
 }
+#orangebtn{
+  background-color: rgb(255, 187, 0);
+}
 #bluebtn{
   background-color: #af94c4;
 }
